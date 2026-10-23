@@ -1,29 +1,30 @@
 # Hi, I'm Oleksii Kushnir 👋
 
-**Software Engineer · Backend Systems · Developer Tools**
+**Software Engineer | Rust · TypeScript/Node.js · Python**
 
-I enjoy understanding how systems work, improving their reliability, and building tools that make other developers' work easier.
+I enjoy building useful software, solving challenging problems, and understanding how things work. I like taking ideas from an initial problem to a working solution—whether that involves application features, backend services, integrations, or development tools.
 
-I work with **TypeScript/Node.js, Rust, and Python**, and have experience with backend services, internal workflow systems, automation, testing, and open-source libraries.
+My experience includes business applications, backend development, automation, and contributions to open-source libraries and SDKs. I care about clear design, maintainable code, testing, and learning whatever a project requires.
 
-**Currently exploring English-speaking, fully remote Software Engineer opportunities with teams across Europe.** I'm particularly interested in backend engineering, developer tooling, and platform/infrastructure-related work.
+## What I've worked on
 
-## What I work on
+- **Application development:** business workflows, backend services, APIs, access control, and integrations.
+- **Open-source engineering:** contributing to TypeScript and Rust libraries, SDKs, and developer-facing projects.
+- **Software quality and delivery:** debugging, automated tests, CI, documentation, and deployment.
 
-- **Backend engineering:** APIs, business logic, role-based access control, and workflow automation.
-- **Developer tools:** local development environments, CLI tools, process lifecycle management, and test infrastructure.
-- **Engineering quality:** debugging, automated tests, CI workflows, documentation, and maintainable code.
+## Selected work & contributions
 
-## Selected projects & contributions
-
-### [NEAR Sandbox for JavaScript / TypeScript](https://github.com/AlexKushnir1/near-sandbox-js)
-A fork of the local blockchain sandbox tooling used in development and testing. The work involves managing local node processes, configuration, binary downloads, and test workflows. I have also contributed to the [upstream sandbox project](https://github.com/near/near-sandbox-js/pull/5).
+### Business workflow platform (private project)
+Developed backend functionality for a workforce and task-management application, including role-based access control, tests, documentation, and deployment to a Raspberry Pi.
 
 ### [NEAR Workspaces JS — open-source contributions](https://github.com/near/near-workspaces-js)
-Contributed to the maintenance and modernization of a TypeScript testing library, including:
-- [pnpm migration and Node.js updates](https://github.com/near/near-workspaces-js/pull/249)
-- [TypeScript and ECMAScript target updates](https://github.com/near/near-workspaces-js/pull/250)
-- [release automation with Changesets](https://github.com/near/near-workspaces-js/pull/254)
+Contributed to the maintenance and modernization of a TypeScript testing library:
+- [Migrated the project to pnpm and updated Node.js support](https://github.com/near/near-workspaces-js/pull/249)
+- [Updated TypeScript and ECMAScript targets](https://github.com/near/near-workspaces-js/pull/250)
+- [Set up release automation with Changesets](https://github.com/near/near-workspaces-js/pull/254)
+
+### [NEAR Sandbox for JavaScript / TypeScript](https://github.com/AlexKushnir1/near-sandbox-js)
+Worked on a fork of local blockchain sandbox tooling for development and testing, including node process management, configuration, binary downloads, and testing workflows. Also contributed to the [upstream project](https://github.com/near/near-sandbox-js/pull/5).
 
 ### [NEAR API JS — signer interface refactor](https://github.com/near/near-api-js/pull/1589)
 Contributed to simplifying the signer implementation interface in a JavaScript/TypeScript SDK.
@@ -33,13 +34,11 @@ Contributed changes to development account creation and deployment behavior in t
 
 ## Technologies
 
-**Languages:** TypeScript / JavaScript, Python, Rust, Java, C / C++  
-**Backend & tooling:** Node.js, SQL (PostgreSQL, MySQL, SQLite), Docker, Git, CI/CD  
-**Interests:** backend systems, developer experience, testing infrastructure, automation
+**Languages:** Rust, TypeScript / JavaScript, Python, Java, C / C++  
+**Backend & tools:** Node.js, SQL (PostgreSQL, MySQL, SQLite), Docker, Git, CI/CD  
+**Experience:** backend services, business applications, automation, SDKs, testing infrastructure
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/oleksii-kushnirr/)
 - [GitHub](https://github.com/AlexKushnir1)
-
-*Open to English-speaking, fully remote engineering roles across Europe.*
