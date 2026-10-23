@@ -1,41 +1,44 @@
-# Hi, I'm Oleksii Kushnir 👋  
+# Hi, I'm Oleksii Kushnir 👋
 
-**Web3 Developer | Rust & TypeScript | Blockchain Enthusiast**  
+**Software Engineer | Rust · TypeScript/Node.js · Python**
 
----
+I enjoy building useful software, solving challenging problems, and understanding how things work. I like taking ideas from an initial problem to a working solution—whether that involves application features, backend services, integrations, or development tools.
 
-## 👨‍💻 About Me
-I’m a **Web3 developer** from Vinnytsia, Ukraine.  
-My main focus is building blockchain applications and smart contracts using **Rust, TypeScript, Solidity**, and ecosystems like **NEAR**, **Solana** and **Ethereum**.  
+My experience includes business applications, backend development, automation, and contributions to open-source libraries and SDKs. I care about clear design, maintainable code, testing, and learning whatever a project requires.
 
-I’m passionate about creating reliable decentralized solutions and improving the interaction between smart contracts and end-users through robust integrations.  
+## What I've worked on
 
----
+- **Application development:** business workflows, backend services, APIs, access control, and integrations.
+- **Open-source engineering:** contributing to TypeScript and Rust libraries, SDKs, and developer-facing projects.
+- **Software quality and delivery:** debugging, automated tests, CI, documentation, and deployment.
 
-## 🔧 Tech Stack
-- **Languages:** Rust, TypeScript, Solidity  
-- **Blockchain Ecosystems:** NEAR Protocol, Solana, Ethereum  
-- **Interests & Growth Areas:** Web3 development, smart contract auditing, advanced integrations between contracts and user-facing interfaces  
+## Selected work & contributions
 
----
+### Business workflow platform (private project)
+Developed backend functionality for a workforce and task-management application, including role-based access control, tests, documentation, and deployment to a Raspberry Pi.
 
-## 🚀 Experience & Contributions
-- **Commercial Experience:**  
-  - Active contributor to **NEAR Protocol** with multiple closed PRs and full refactored **near-sandbox-js** for setting up a local NEAR blockchain sandbox  
- 
-- **Highlighted Projects:**  
-  - 📄 **MPC Signing Documentation** – analyzed how MPC signing works in smart contracts and created detailed technical documentation for contract methods  
-  - 🛠 **NEAR Sandbox Library** – built a library from scratch to simulate a local blockchain environment  
+### [NEAR Workspaces JS — open-source contributions](https://github.com/near/near-workspaces-js)
+Contributed to the maintenance and modernization of a TypeScript testing library:
+- [Migrated the project to pnpm and updated Node.js support](https://github.com/near/near-workspaces-js/pull/249)
+- [Updated TypeScript and ECMAScript targets](https://github.com/near/near-workspaces-js/pull/250)
+- [Set up release automation with Changesets](https://github.com/near/near-workspaces-js/pull/254)
 
-- **Community Contributions:**  
-  - Submissions and active contributions within the NEAR ecosystem  
+### [NEAR Sandbox for JavaScript / TypeScript](https://github.com/AlexKushnir1/near-sandbox-js)
+Worked on a fork of local blockchain sandbox tooling for development and testing, including node process management, configuration, binary downloads, and testing workflows. Also contributed to the [upstream project](https://github.com/near/near-sandbox-js/pull/5).
 
----
+### [NEAR API JS — signer interface refactor](https://github.com/near/near-api-js/pull/1589)
+Contributed to simplifying the signer implementation interface in a JavaScript/TypeScript SDK.
 
-## 📫 Contact
-- **LinkedIn:** [Oleksii Kushnir](https://www.linkedin.com/in/oleksii-kushnir-5235bb251/)  
-- **Telegram:** [@AlexKushnirr](https://t.me/AlexKushnirr)  
+### [NEAR Workspaces Rust — account creation behavior](https://github.com/near/near-workspaces-rs/pull/369)
+Contributed changes to development account creation and deployment behavior in the Rust testing library.
 
----
+## Technologies
 
-⭐️ Always open to collaboration on Web3, smart contract auditing, and blockchain infrastructure projects.  
+**Languages:** Rust, TypeScript / JavaScript, Python, Java, C / C++  
+**Backend & tools:** Node.js, SQL (PostgreSQL, MySQL, SQLite), Docker, Git, CI/CD  
+**Experience:** backend services, business applications, automation, SDKs, testing infrastructure
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/oleksii-kushnirr/)
+- [GitHub](https://github.com/AlexKushnir1)
